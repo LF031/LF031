@@ -1,4 +1,4 @@
-## Bem vindo!! me chamo lucas
+## Bem vindo!!
 
 - 🔭 Cursando cîencia da computação
 
