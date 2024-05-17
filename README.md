@@ -1,15 +1,11 @@
 ## Bem vindo!!
-
 - 🔭 Cursando cîencia da computação
--Java/Java Script/html/CSS-
-<div style="display: inline_block"><br>
-  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
-<a href="[https://github.com/LF031/github-stats](https://github.com/LF031)">
-<img src="https://github.com/LF031/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/LF031/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Fernandes;I'm+21+years+old;I+am+from+BeloHorizonte,+BH;I+study+Ciência+Da+Computacão;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+  
+
+
 
