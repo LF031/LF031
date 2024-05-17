@@ -8,7 +8,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<a href="https://github.com/LF031/github-stats">
+<a href="[https://github.com/LF031/github-stats](https://github.com/LF031)">
 <img src="https://github.com/LF031/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/LF031/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
